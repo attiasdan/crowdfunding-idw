@@ -4,14 +4,14 @@ Sistema autoral de _Financiamento Coletivo_ (Crowdfunding), desenvolvido como re
 
 Esta é uma primeira versão, é necessário diversas refatorações para torná-lo usuável em ambiente de produção.
 
-##### Refatorações necessárias:
+### Refatorações necessárias:
 - Aumento da confiabilidade e segurança;
 - Inseri-lo na estrutura MVC;
 - Otimização da interface gráfica para melhor usabilidade e experiência do usuário;
 
-##### Considerações finais:
+### Considerações finais:
 Estou receptível à contribuições deste projeto.
 
 
-##### Autor inicial:
+#### Autor inicial:
 [Daniel Attias](https://github.com/attiasdan)
